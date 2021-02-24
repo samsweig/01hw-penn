@@ -8,7 +8,11 @@ Horiseon Social Solution Services*/
 
 html {
   scroll-behavior: smooth;
+}
+
+html ::-webkit-scrollbar {
   overflow-y: scroll;
+  display: none;
 }
 
 /*BODY*/
