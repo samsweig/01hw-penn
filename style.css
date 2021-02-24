@@ -7,6 +7,8 @@ Horiseon Social Solution Services*/
     scroll-behavior: smooth;
 }
 
+/*BODY*/
+
 body {
     color: #ffffff;
     background-color: #d9dcd6;
@@ -15,6 +17,8 @@ body {
 div {
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 } 
+
+/*BODY*/
 
 .header {
     padding: 20px;
@@ -38,6 +42,8 @@ span {
     font-size: 20px;
 }
 
+/*NAVAGATION*/
+
 ul li {
     display: inline-block;
     margin-left: 25px; 
@@ -52,6 +58,8 @@ p {
     font-size: 16px;
 }
 
+/*HERO*/
+
 /*try to move background image to <img> in html for better accessiblity*/
 .hero {
     height: 800px;
@@ -61,6 +69,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/*CONTENT*/
 
 .content {
     display: inline-block;
@@ -94,6 +104,8 @@ p {
     margin-left: 25px;
 }
 
+/*BENEFITS*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +130,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*FOOTER*/
 
 .footer {
     color: #000000;
