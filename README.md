@@ -14,7 +14,7 @@ Submit to BCS.
 Screenshot of GitHub Pages:
 
 ![image]
-(file:///Users/sam/penn_lps/screenshots/Screen%20Shot%202021-02-24%20at%209.34.01%20AM.png)
+(/penn_lps/screenshots/Screen%20Shot%202021-02-24%20at%209.34.01%20AM.png)
 
 URL to deployed application:
 
