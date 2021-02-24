@@ -4,7 +4,12 @@ Horiseon Social Solution Services*/
 * {
     box-sizing: border-box;
     margin: 0;
+    
+}
+
+html {
     scroll-behavior: smooth;
+    overflow-y: scroll;
 }
 
 /*BODY*/
@@ -65,7 +70,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -142,4 +147,8 @@ p {
 
 .footer h4 {
     font-size: 20px;
+}
+
+.footer a {
+    color: black;
 }
