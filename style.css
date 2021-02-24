@@ -2,153 +2,152 @@
 Horiseon Social Solution Services*/
 
 * {
-    box-sizing: border-box;
-    margin: 0;
-    
+  box-sizing: border-box;
+  margin: 0;
 }
 
 html {
-    scroll-behavior: smooth;
-    overflow-y: scroll;
+  scroll-behavior: smooth;
+  overflow-y: scroll;
 }
 
 /*BODY*/
 
 body {
-    color: #ffffff;
-    background-color: #d9dcd6;
+  color: #ffffff;
+  background: linear-gradient(to bottom, #b3bbbe 50%, #ffffff 100%);
 }
 
 div {
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-} 
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
+}
 
 /*BODY*/
 
 .header {
-    padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background: linear-gradient(to bottom, #2a607c 0%, #4dacdb 100%);
 }
 
 .header h1 {
-    display: inline-block;
-    font-size: 48px;
+  display: inline-block;
+  font-size: 48px;
 }
 
 span {
-    color: #d9dcd6;
+  color: #d9dcd6;
 }
 
 .header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-size: 20px;
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-size: 20px;
 }
 
 /*NAVAGATION*/
 
 ul li {
-    display: inline-block;
-    margin-left: 25px; 
+  display: inline-block;
+  margin-left: 25px;
 }
 
 a {
-    color: #ffffff;
-    text-decoration: none;
+  color: #ffffff;
+  text-decoration: none;
 }
 
 p {
-    font-size: 16px;
+  font-size: 18px;
 }
 
 /*HERO*/
 
-/*try to move background image to <img> in html for better accessiblity*/
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("./images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+.hero img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 25px;
+  background-position: center;
 }
 
 /*CONTENT*/
 
 .content {
-    display: inline-block;
-    width: 75%;
-    margin-left: 20px;
+  display: inline-block;
+  width: 75%;
+  margin-left: 20px;
 }
 
 .content div {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 309px;
-    background-color: #0072bb;
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 325px;
+  background: linear-gradient(to bottom, #2a607c 0%, #4dacdb 100%);
 }
 
 .content img {
-    max-height: 200px;
+  max-height: 200px;
 }
 
 .float-left {
-    float: left;
-    margin-right: 25px;
+  float: left;
+  margin-right: 25px;
 }
 
 .content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 
 .float-right {
-    float: right;
-    margin-left: 25px;
+  float: right;
+  margin-left: 25px;
 }
 
 /*BENEFITS*/
 
 .benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    background-color: #2589bd;
+  margin-right: 20px;
+  padding: 20px;
+  clear: both;
+  float: right;
+  width: 20%;
+  height: 100%;
+  background: linear-gradient(to bottom, #2a607c 0%, #4dacdb 100%);
 }
 
 .benefits div {
-    margin-bottom: 40px;
+  margin-bottom: 41px;
 }
 
 .benefits h3 {
-    margin-bottom: 10px;
-    text-align: center; 
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 .benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
 }
 
 /*FOOTER*/
 
 .footer {
-    color: #000000;
-    padding: 30px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
+  color: #000000;
+  padding: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
 }
 
 .footer h4 {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .footer a {
-    color: black;
+  color: black;
 }
