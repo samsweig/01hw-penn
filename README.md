@@ -19,4 +19,4 @@
 
 # URL to deployed application:
 
-<a href='https://samsweig.github.io/01hw-penn/'>My Live GitHub Site!!!</a>
+<a href='https://samsweig.github.io/01hw-penn/' target='_blank'>My Live GitHub Site!!!</a>
