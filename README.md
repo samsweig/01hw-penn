@@ -1,20 +1,22 @@
 # 01hw-penn
-Week 1 Penn LPS FSF Homework - 01 HTML, CSS, and GIT: Code Refactor
 
-Review HTML skeleton and CSS file for semantic errors. 
+## Week 1 Penn LPS FSF Homework - 01 HTML, CSS, and GIT: Code Refactor
 
-Once errors are identified make comments how to fix errors.
+* Review HTML skeleton and CSS file for semantic errors. 
 
-Commit completed file to GitHub.
+  * Once errors are identified make comments how to fix errors.
 
-Deploy on GitHub pages.
+  * Commit completed file to GitHub.
 
-Submit to BCS.
+  * Deploy on GitHub pages.
 
-Screenshot of GitHub Pages:
+  * Submit to BCS.
 
-![Screen Shot 2021-02-24 at 9 34 01 AM](https://user-images.githubusercontent.com/56444674/109017657-601a5b00-7685-11eb-9342-d61c14eb89e2.png)
+# Screenshot of GitHub Pages:
 
-URL to deployed application:
+![Screen Shot 2021-02-24 at 9 34 01 AM]
+(https://user-images.githubusercontent.com/56444674/109017657-601a5b00-7685-11eb-9342-d61c14eb89e2.png)
+
+# URL to deployed application:
 
 https://samsweig.github.io/01hw-penn/
